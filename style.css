@@ -3,3 +3,35 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    margin: 10px;
+    padding: 30px;
+    border-right: 1px solid rgba(128, 128, 128, 0.445);
+
+
+}
+
+div{
+    margin: 8px;
+    padding: 6px;
+}
+
+body{
+      display: flex;
+      background-color: black;
+      color: white;
+}
+
+main{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium';
+    margin: 30px auto;
+    padding: 30px;
+}
+
+img{
+     width: 510px;
+     height: 510px;
+
+}
